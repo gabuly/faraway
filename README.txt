@@ -8,4 +8,4 @@ The more distant the land is, the:
 
 3. Rarer the structures
 
-4. Higher the payback(resources) 
+4. Higher the payback (resources)  
